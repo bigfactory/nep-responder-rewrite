@@ -1,0 +1,18 @@
+{
+  "name": "nep-responder-rewrite",
+  "version": "0.0.2",
+  "description": "rewrite responder for nep",
+  "main": "index.js",
+  "author": {
+    "name": "hxc",
+    "email": "xiaocong.hxc@qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bigfactory/nep-responder-rewrite.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+  
+  }
+}
